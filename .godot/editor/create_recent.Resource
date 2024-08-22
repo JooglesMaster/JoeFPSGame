@@ -1,0 +1,2 @@
+Weapon_Resource
+Shader

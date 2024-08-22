@@ -1,0 +1,15 @@
+HBoxContainer
+Label
+VBoxContainer
+CollisionShape3D
+Area3D
+TextureRect
+Node3D
+Timer
+StaticBody3D
+RigidBody3D
+AnimationPlayer
+Sprite3D
+SubViewport
+ReflectionProbe
+NavigationAgent3D

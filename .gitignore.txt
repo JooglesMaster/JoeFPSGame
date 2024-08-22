@@ -1,0 +1,27 @@
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
+
+# 3D models and textures
+*.obj
+*.fbx
+*.glb
+*.gltf
+*.blend
+*.dae
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.bmp
+*.hdr
+
+# Add any other file extensions or folders you want to ignore

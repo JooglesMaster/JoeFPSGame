@@ -1,0 +1,404 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1724284533
+read me.txt::TextFile::-1::1718522797::0::1::::<><>::
+README.md::TextFile::-1::1718522797::0::1::::<><>::
+Title.png::CompressedTexture2D::8768245707470150615::1718522797::1718522858::1::::<><>::
+::res://addons/::1722110478
+::res://addons/godot-jolt/::1722110478
+godot-jolt.gdextension::GDExtension::-1::1722110478::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1722110478::0::1::::<><>::
+THIRDPARTY.txt::TextFile::-1::1722110478::0::1::::<><>::
+::res://addons/godot-jolt/android/::1722110478
+::res://addons/godot-jolt/ios/::1722110478
+::res://addons/godot-jolt/ios/godot-jolt_ios.framework/::1722110478
+::res://addons/godot-jolt/ios/godot-jolt_ios_editor.framework/::1722110478
+::res://addons/godot-jolt/linux/::1722110478
+::res://addons/godot-jolt/macos/::1722110478
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/::1722110478
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/Resources/::1722110478
+::res://addons/godot-jolt/macos/godot-jolt_macos.framework/_CodeSignature/::1722110478
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/::1722110478
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/Resources/::1722110478
+::res://addons/godot-jolt/macos/godot-jolt_macos_editor.framework/_CodeSignature/::1722110478
+::res://addons/godot-jolt/windows/::1724284528
+::res://Ai_Characters/::1722610983
+::res://Ai_Characters/Models/::1722598643
+::res://Ai_Characters/Models/Bean/::1722599321
+coolbean.glb::PackedScene::2390956234665911414::1722599320::1722599321::1::::<><>::
+::res://Ai_Characters/Models/Grunt/::1721315759
+halo_grunt.glb::PackedScene::4657374044502883053::1721315732::1721315759::1::::<><>::uid://b84wmf30qr87c::::res://Ai_Characters/Models/Grunt/halo_grunt_0.png<>uid://b57cxnlgwn60s::::res://Ai_Characters/Models/Grunt/halo_grunt_1.png<>uid://cwwo7xkmemvta::::res://Ai_Characters/Models/Grunt/halo_grunt_2.png<>uid://ppbm75v1deh8::::res://Ai_Characters/Models/Grunt/halo_grunt_3.png
+halo_grunt_0.png::CompressedTexture2D::4763876989012872942::1721315733::1721315759::1::::<><>::
+halo_grunt_1.png::CompressedTexture2D::4558309288308290984::1721315734::1721315759::1::::<><>::
+halo_grunt_2.png::CompressedTexture2D::6363320645352081274::1721315734::1721315758::1::::<><>::
+halo_grunt_3.png::CompressedTexture2D::1083882195481356151::1721315734::1721315759::1::::<><>::
+::res://Ai_Characters/Projectile/::1724256756
+ray.glb::PackedScene::6937539375739373089::1722611245::1722611246::1::::<><>::
+Ray_Projectile.gd::GDScript::-1::1724195234::0::1::::<>RigidBody3D<>::
+Ray_Projectile.tscn::PackedScene::6668044498971322230::1724256756::0::1::::<><>::res://Ai_Characters/Projectile/Ray_Projectile.gd
+::res://Ai_Characters/Scripts/::1724215332
+state_enemy.gd::GDScript::-1::1724215332::0::1::::<>CharacterBody3D<>::
+::res://Ai_Characters/Spawnable_Objects/::1724256756
+grunt.tscn::PackedScene::8203771446886183261::1724256756::0::1::::<><>::res://Ai_Characters/Scripts/state_enemy.gd<>uid://cypdarbey2d1c::::res://Player_Controller/Weapon_Models/plasma_rifle/plasma rifle_v4.glb
+::res://Example World/::1718522796
+::res://Example World/Models/::1718522793
+::res://Example World/Models/Boxes/::1718522865
+cardboard_box1.glb::PackedScene::2086108576447681610::1718522789::1718522865::1::::<><>::uid://dxsynf14s3j6x::::res://Example World/Models/Boxes/cardboard_box1_Box_21-256x256.png
+cardboard_box1_Box_21-256x256.png::CompressedTexture2D::8812244981598741625::1718522789::1718522858::1::::<><>::
+cardboard_box2.glb::PackedScene::4010061817194359343::1718522789::1718522865::1::::<><>::uid://d2c02vhvtnll2::::res://Example World/Models/Boxes/cardboard_box2_Box_03-256x256.png
+cardboard_box2_Box_03-256x256.png::CompressedTexture2D::9060056840852933173::1718522789::1718522858::1::::<><>::
+::res://Example World/Models/Kenney/::1718522877
+arrow.glb::PackedScene::930518297571058766::1718522789::1718522865::1::::<><>::
+arrows.glb::PackedScene::4913818020201676262::1718522789::1718522866::1::::<><>::
+barrel.glb::PackedScene::4697030799341445220::1718522789::1718522866::1::::<><>::
+block.glb::PackedScene::6587026172292302142::1718522789::1718522866::1::::<><>::
+blockCliff.glb::PackedScene::1707392660929153242::1718522789::1718522866::1::::<><>::
+blockCliffCorner.glb::PackedScene::5092763066114307747::1718522789::1718522866::1::::<><>::
+blockCornerLarge.glb::PackedScene::6315226591291621379::1718522789::1718522866::1::::<><>::
+blockCornerSmall.glb::PackedScene::5463472964198160006::1718522789::1718522866::1::::<><>::
+blockCurve.glb::PackedScene::6932171977892757144::1718522789::1718522867::1::::<><>::
+blockCurveHalf.glb::PackedScene::219189365506195087::1718522789::1718522867::1::::<><>::
+blockCurveLow.glb::PackedScene::3354208149026527745::1718522789::1718522867::1::::<><>::
+blockDirt.glb::PackedScene::6426020019128613594::1718522789::1718522867::1::::<><>::
+blockDirtHalf.glb::PackedScene::1646267679147643692::1718522789::1718522867::1::::<><>::
+blockDirtRamp.glb::PackedScene::6093597829325312227::1718522789::1718522867::1::::<><>::
+blockDirtRampHalf.glb::PackedScene::7062253950424379884::1718522789::1718522867::1::::<><>::
+blockEnd.glb::PackedScene::2164781970901879494::1718522789::1718522868::1::::<><>::
+blockHalf.glb::PackedScene::4367052853886462881::1718522790::1718522868::1::::<><>::
+blockHexagon.glb::PackedScene::4273474654913806624::1718522790::1718522868::1::::<><>::
+blockHexagonLow.glb::PackedScene::7651498969196302312::1718522790::1718522868::1::::<><>::
+blockLarge.glb::PackedScene::6332320741102376818::1718522790::1718522868::1::::<><>::
+blockLevel.glb::PackedScene::8748985519592347459::1718522790::1718522868::1::::<><>::
+blockLong.glb::PackedScene::7619891356096548209::1718522790::1718522868::1::::<><>::
+blockMoving.glb::PackedScene::4496622887184885224::1718522790::1718522869::1::::<><>::
+blockMovingBlue.glb::PackedScene::334585285713380794::1718522790::1718522869::1::::<><>::
+blockMovingLarge.glb::PackedScene::5931726435493359132::1718522790::1718522869::1::::<><>::
+blockQuarter.glb::PackedScene::3390443555899362071::1718522790::1718522861::1::::<><>::
+blockRounded.glb::PackedScene::5631120932258980826::1718522790::1718522862::1::::<><>::
+blockRoundedLarge.glb::PackedScene::6527610332906412643::1718522790::1718522862::1::::<><>::
+blockRoundedLong.glb::PackedScene::98045411109070632::1718522790::1718522862::1::::<><>::
+blockRoundedLow.glb::PackedScene::4346580866533177745::1718522790::1718522862::1::::<><>::
+blockRoundedLowLong.glb::PackedScene::6395144199879615706::1718522790::1718522862::1::::<><>::
+blockSlope.glb::PackedScene::1674633756734748936::1718522790::1718522862::1::::<><>::
+blockSlopeHalf.glb::PackedScene::4961809218613611756::1718522790::1718522862::1::::<><>::
+blockSnow.glb::PackedScene::4942721910727239629::1718522790::1718522863::1::::<><>::
+blockSnowCliff.glb::PackedScene::4351467233529580596::1718522790::1718522863::1::::<><>::
+blockSnowCliffCorner.glb::PackedScene::5872917557368634296::1718522790::1718522863::1::::<><>::
+blockSnowCornerLarge.glb::PackedScene::6322217157068703109::1718522790::1718522863::1::::<><>::
+blockSnowCornerSmall.glb::PackedScene::6464209047036157425::1718522790::1718522863::1::::<><>::
+blockSnowCurve.glb::PackedScene::4728630848728202147::1718522790::1718522863::1::::<><>::
+blockSnowCurveHalf.glb::PackedScene::1778180021121976724::1718522790::1718522863::1::::<><>::
+blockSnowCurveLow.glb::PackedScene::9084514233640992724::1718522790::1718522863::1::::<><>::
+blockSnowEnd.glb::PackedScene::5694645547905857457::1718522790::1718522864::1::::<><>::
+blockSnowHalf.glb::PackedScene::8645960287060055636::1718522790::1718522864::1::::<><>::
+blockSnowHexagon.glb::PackedScene::2392361182852960806::1718522790::1718522864::1::::<><>::
+blockSnowHexagonLow.glb::PackedScene::1179045518143345384::1718522790::1718522864::1::::<><>::
+blockSnowLarge.glb::PackedScene::2023957743267654738::1718522790::1718522864::1::::<><>::
+blockSnowLevel.glb::PackedScene::3513397573451499559::1718522790::1718522864::1::::<><>::
+blockSnowLong.glb::PackedScene::2125522760503159574::1718522791::1718522864::1::::<><>::
+blockSnowQuarter.glb::PackedScene::4526019567791546296::1718522791::1718522865::1::::<><>::
+blockSnowRounded.glb::PackedScene::1575310239882397986::1718522791::1718522865::1::::<><>::
+blockSnowRoundedLarge.glb::PackedScene::1805837791195555796::1718522791::1718522865::1::::<><>::
+blockSnowRoundedLong.glb::PackedScene::2617357332273486118::1718522791::1718522865::1::::<><>::
+blockSnowRoundedLow.glb::PackedScene::4679789529344233474::1718522791::1718522873::1::::<><>::
+blockSnowRoundedLowLong.glb::PackedScene::8519663515845432659::1718522791::1718522873::1::::<><>::
+blockSnowSlope.glb::PackedScene::4501702613548852843::1718522791::1718522873::1::::<><>::
+blockSnowSlopeHalf.glb::PackedScene::5725558777914420319::1718522791::1718522873::1::::<><>::
+bomb.glb::PackedScene::6123393270374456035::1718522791::1718522873::1::::<><>::
+bridge.glb::PackedScene::5341866058738809747::1718522791::1718522873::1::::<><>::
+bridgeHalf.glb::PackedScene::537234249883068646::1718522791::1718522874::1::::<><>::
+bridgeRamp.glb::PackedScene::6191946603759494017::1718522791::1718522874::1::::<><>::
+buttonRound.glb::PackedScene::5439040019860950569::1718522791::1718522874::1::::<><>::
+buttonSquare.glb::PackedScene::8219633597682136728::1718522791::1718522874::1::::<><>::
+chest.glb::PackedScene::6173179317044889871::1718522791::1718522874::1::::<><>::
+coinBronze.glb::PackedScene::7603717948110019653::1718522791::1718522874::1::::<><>::
+coinGold.glb::PackedScene::8204208851683427763::1718522791::1718522874::1::::<><>::
+coinSilver.glb::PackedScene::5911706478186539963::1718522791::1718522875::1::::<><>::
+crate.glb::PackedScene::2497875668511973315::1718522791::1718522875::1::::<><>::
+crateItem.glb::PackedScene::8807542815096273033::1718522791::1718522875::1::::<><>::
+crateItemStrong.glb::PackedScene::791836962425045526::1718522791::1718522875::1::::<><>::
+crateStrong.glb::PackedScene::7952817587593124726::1718522791::1718522875::1::::<><>::
+doorClosed.glb::PackedScene::5898450194493628343::1718522791::1718522875::1::::<><>::
+doorLargeClosed.glb::PackedScene::3838649547328261986::1718522791::1718522875::1::::<><>::
+doorLargeOpen.glb::PackedScene::4140969952564845294::1718522791::1718522876::1::::<><>::
+doorOpen.glb::PackedScene::443152352976723157::1718522791::1718522876::1::::<><>::
+fence.glb::PackedScene::8277646078613027453::1718522791::1718522876::1::::<><>::
+fenceBroken.glb::PackedScene::4576591914182859317::1718522791::1718522876::1::::<><>::
+fenceCorner.glb::PackedScene::7674375628884399433::1718522791::1718522876::1::::<><>::
+fenceCornerCurved.glb::PackedScene::1282595348336902043::1718522791::1718522876::1::::<><>::
+fenceLow.glb::PackedScene::6001756193816727442::1718522792::1718522876::1::::<><>::
+fenceLowBroken.glb::PackedScene::4894871383543052868::1718522792::1718522877::1::::<><>::
+fenceLowCorner.glb::PackedScene::4757710124037205753::1718522792::1718522869::1::::<><>::
+fenceLowCornerCurved.glb::PackedScene::1701728891106793442::1718522792::1718522869::1::::<><>::
+flag.glb::PackedScene::2295610243771447684::1718522792::1718522869::1::::<><>::
+flowers.glb::PackedScene::9043865167155406725::1718522792::1718522869::1::::<><>::
+flowersLow.glb::PackedScene::6218059579570913145::1718522792::1718522870::1::::<><>::
+heart.glb::PackedScene::4750423167843878683::1718522792::1718522870::1::::<><>::
+hedge.glb::PackedScene::7771626151786147430::1718522792::1718522870::1::::<><>::
+hedgeCorner.glb::PackedScene::3005011657784459947::1718522792::1718522870::1::::<><>::
+jewel.glb::PackedScene::2213104265999860233::1718522792::1718522870::1::::<><>::
+key.glb::PackedScene::5654084026380802918::1718522792::1718522870::1::::<><>::
+ladder.glb::PackedScene::4267195545816326820::1718522792::1718522870::1::::<><>::
+ladderBroken.glb::PackedScene::4672945077238963080::1718522792::1718522870::1::::<><>::
+ladderLong.glb::PackedScene::2323546664334899728::1718522792::1718522871::1::::<><>::
+lever.glb::PackedScene::884312520437881357::1718522792::1718522871::1::::<><>::
+lock.glb::PackedScene::823716373654251472::1718522792::1718522871::1::::<><>::
+mushrooms.glb::PackedScene::1726756000718392819::1718522792::1718522871::1::::<><>::
+plant.glb::PackedScene::8481873181604987047::1718522792::1718522871::1::::<><>::
+platform.glb::PackedScene::8806840695670759407::1718522792::1718522871::1::::<><>::
+poles.glb::PackedScene::1771395727429093697::1718522792::1718522871::1::::<><>::
+rocks.glb::PackedScene::2132320054062187059::1718522792::1718522872::1::::<><>::
+saw.glb::PackedScene::5570631000069914859::1718522792::1718522872::1::::<><>::
+sign.glb::PackedScene::8548974266227495793::1718522792::1718522872::1::::<><>::
+spikeBlock.glb::PackedScene::7317772907094635728::1718522792::1718522872::1::::<><>::
+spikeBlockWide.glb::PackedScene::548018183018640334::1718522792::1718522872::1::::<><>::
+spikes.glb::PackedScene::5113363629572124721::1718522792::1718522872::1::::<><>::
+spikesHidden.glb::PackedScene::5278020174842426628::1718522792::1718522872::1::::<><>::
+spikesLarge.glb::PackedScene::95285886278204893::1718522792::1718522873::1::::<><>::
+stones.glb::PackedScene::8769679533225895693::1718522792::1718522860::1::::<><>::
+tree.glb::PackedScene::8297751333249490429::1718522792::1718522859::1::::<><>::
+treePine.glb::PackedScene::8978155268982548303::1718522792::1718522859::1::::<><>::
+treePineSmall.glb::PackedScene::3033927660631833706::1718522793::1718522859::1::::<><>::
+treePineSmallSnow.glb::PackedScene::5435318115633539055::1718522793::1718522859::1::::<><>::
+treePineSnow.glb::PackedScene::7907551980497878500::1718522793::1718522859::1::::<><>::
+treeSnow.glb::PackedScene::3168890806704058740::1718522793::1718522858::1::::<><>::
+::res://Example World/Models/Kenney Weapons/::1718522861
+blasterB.glb::PackedScene::491055821979370066::1718522793::1718522858::1::::<><>::
+blasterC.glb::PackedScene::2942700766663697356::1718522793::1718522858::1::::<><>::
+blasterE.glb::PackedScene::6432141817995751911::1718522793::1718522858::1::::<><>::
+blasterH.glb::PackedScene::6691498258955398873::1718522793::1718522859::1::::<><>::
+blasterI.glb::PackedScene::8045027650873351622::1718522793::1718522859::1::::<><>::
+blasterJ.glb::PackedScene::5962170659012999874::1718522793::1718522860::1::::<><>::
+blasterK.glb::PackedScene::9037017035845214442::1718522793::1718522860::1::::<><>::
+blasterM.glb::PackedScene::7092386049147291076::1718522793::1718522860::1::::<><>::
+clipA.glb::PackedScene::3285993381665984333::1718522793::1718522860::1::::<><>::
+foamBulletB.glb::PackedScene::5627046792514187995::1718522793::1718522860::1::::<><>::
+targetA.glb::PackedScene::722968434986068683::1718522793::1718522860::1::::<><>::
+targetB.glb::PackedScene::3723156455891802350::1718522793::1718522861::1::::<><>::
+::res://Example World/Models/Textures/::1718522793
+::res://Example World/Models/Textures/prototype texture/::1718522795
+::res://Example World/Models/Textures/prototype texture/Dark/::1718522857
+texture_01.png::CompressedTexture2D::3120203859483189774::1718522793::1718522857::1::::<><>::
+texture_02.png::CompressedTexture2D::7902453896204424666::1718522793::1718522857::1::::<><>::
+texture_03.png::CompressedTexture2D::1980240048731103419::1718522793::1718522857::1::::<><>::
+texture_04.png::CompressedTexture2D::656107213659195607::1718522793::1718522857::1::::<><>::
+texture_05.png::CompressedTexture2D::5751971823651838622::1718522793::1718522857::1::::<><>::
+texture_06.png::CompressedTexture2D::1160068931385869595::1718522793::1718522857::1::::<><>::
+texture_07.png::CompressedTexture2D::4507388227771761593::1718522793::1718522857::1::::<><>::
+texture_08.png::CompressedTexture2D::7479414160307857803::1718522793::1718522857::1::::<><>::
+texture_09.png::CompressedTexture2D::7061690979204156701::1718522793::1718522857::1::::<><>::
+texture_10.png::CompressedTexture2D::317323816904461630::1718522793::1718522857::1::::<><>::
+texture_11.png::CompressedTexture2D::6733892488686780215::1718522793::1718522857::1::::<><>::
+texture_12.png::CompressedTexture2D::2043044948693762623::1718522793::1718522857::1::::<><>::
+texture_13.png::CompressedTexture2D::1557161530114797580::1718522794::1718522857::1::::<><>::
+::res://Example World/Models/Textures/prototype texture/Green/::1718522857
+texture_01.png::CompressedTexture2D::5572086173662680107::1718522794::1718522857::1::::<><>::
+texture_02.png::CompressedTexture2D::6979763346503297772::1718522794::1718522857::1::::<><>::
+texture_03.png::CompressedTexture2D::9065077724396220584::1718522794::1718522857::1::::<><>::
+texture_04.png::CompressedTexture2D::2186232631352304240::1718522794::1718522857::1::::<><>::
+texture_05.png::CompressedTexture2D::7611972132496645686::1718522794::1718522857::1::::<><>::
+texture_06.png::CompressedTexture2D::5711852832368919902::1718522794::1718522857::1::::<><>::
+texture_07.png::CompressedTexture2D::2117449478904466242::1718522794::1718522857::1::::<><>::
+texture_08.png::CompressedTexture2D::7189266324306922586::1718522794::1718522857::1::::<><>::
+texture_09.png::CompressedTexture2D::2706199927769158900::1718522794::1718522857::1::::<><>::
+texture_10.png::CompressedTexture2D::302905964380732229::1718522794::1718522857::1::::<><>::
+texture_11.png::CompressedTexture2D::906609949124098989::1718522794::1718522857::1::::<><>::
+texture_12.png::CompressedTexture2D::1242791567334966882::1718522794::1718522857::1::::<><>::
+texture_13.png::CompressedTexture2D::7727146057832241915::1718522794::1718522857::1::::<><>::
+::res://Example World/Models/Textures/prototype texture/Light/::1718522857
+texture_01.png::CompressedTexture2D::8839095588993182425::1718522794::1718522857::1::::<><>::
+texture_02.png::CompressedTexture2D::7140684896809136413::1718522794::1718522857::1::::<><>::
+texture_03.png::CompressedTexture2D::712530672761569147::1718522794::1718522857::1::::<><>::
+texture_04.png::CompressedTexture2D::4089014631452069808::1718522794::1718522857::1::::<><>::
+texture_05.png::CompressedTexture2D::103574730539705501::1718522794::1718522857::1::::<><>::
+texture_06.png::CompressedTexture2D::4769214193328003363::1718522794::1718522857::1::::<><>::
+texture_07.png::CompressedTexture2D::1288358132596158287::1718522794::1718522857::1::::<><>::
+texture_08.png::CompressedTexture2D::7729693408180396610::1718522794::1718522857::1::::<><>::
+texture_09.png::CompressedTexture2D::8544947579786940921::1718522794::1718522857::1::::<><>::
+texture_10.png::CompressedTexture2D::4493169943331949931::1718522794::1718522857::1::::<><>::
+texture_11.png::CompressedTexture2D::2901585986898002872::1718522794::1718522857::1::::<><>::
+texture_12.png::CompressedTexture2D::8325707532319618835::1718522794::1718522857::1::::<><>::
+texture_13.png::CompressedTexture2D::2458570011567793113::1718522794::1718522857::1::::<><>::
+::res://Example World/Models/Textures/prototype texture/Orange/::1718522858
+texture_01.png::CompressedTexture2D::7951746529714196510::1718522794::1718522857::1::::<><>::
+texture_02.png::CompressedTexture2D::4454667118095678951::1718522794::1718522857::1::::<><>::
+texture_03.png::CompressedTexture2D::3496564127461857702::1718522794::1718522857::1::::<><>::
+texture_04.png::CompressedTexture2D::1190398215713758380::1718522794::1718522857::1::::<><>::
+texture_05.png::CompressedTexture2D::5214630025610076388::1718522794::1718522857::1::::<><>::
+texture_06.png::CompressedTexture2D::1481159965006550780::1718522795::1718522857::1::::<><>::
+texture_07.png::CompressedTexture2D::6454889063656556108::1718522795::1718522858::1::::<><>::
+texture_08.png::CompressedTexture2D::8239789603796384004::1718522795::1718522858::1::::<><>::
+texture_09.png::CompressedTexture2D::617175360996203497::1718522795::1718522858::1::::<><>::
+texture_10.png::CompressedTexture2D::6156943962819102783::1718522795::1718522858::1::::<><>::
+texture_11.png::CompressedTexture2D::6897351722032797047::1718522795::1718522858::1::::<><>::
+texture_12.png::CompressedTexture2D::2502864360659741103::1718522795::1718522858::1::::<><>::
+texture_13.png::CompressedTexture2D::5912134871445779476::1718522795::1718522858::1::::<><>::
+::res://Example World/Models/Textures/prototype texture/Purple/::1718522858
+texture_01.png::CompressedTexture2D::7814307633957854138::1718522795::1718522858::1::::<><>::
+texture_02.png::CompressedTexture2D::5443128148659584416::1718522795::1718522858::1::::<><>::
+texture_03.png::CompressedTexture2D::7417837746506732613::1718522795::1718522858::1::::<><>::
+texture_04.png::CompressedTexture2D::3930819922869252070::1718522795::1718522858::1::::<><>::
+texture_05.png::CompressedTexture2D::8037542523463611358::1718522795::1718522858::1::::<><>::
+texture_06.png::CompressedTexture2D::4445641295761671732::1718522795::1718522858::1::::<><>::
+texture_07.png::CompressedTexture2D::1175222940350383446::1718522795::1718522858::1::::<><>::
+texture_08.png::CompressedTexture2D::7405472976230852356::1718522795::1718522858::1::::<><>::
+texture_09.png::CompressedTexture2D::3945697747490716829::1718522795::1718522858::1::::<><>::
+texture_10.png::CompressedTexture2D::5445213925446991563::1718522795::1718522858::1::::<><>::
+texture_11.png::CompressedTexture2D::3618790119069371156::1718522795::1718522858::1::::<><>::
+texture_12.png::CompressedTexture2D::3191059057516556847::1718522795::1718522858::1::::<><>::
+texture_13.png::CompressedTexture2D::6709277550286487467::1718522795::1718522858::1::::<><>::
+::res://Example World/Models/Textures/prototype texture/Red/::1718522858
+texture_01.png::CompressedTexture2D::598607312478546184::1718522795::1718522858::1::::<><>::
+texture_02.png::CompressedTexture2D::6686644197751340969::1718522795::1718522857::1::::<><>::
+texture_03.png::CompressedTexture2D::1592435989205078453::1718522795::1718522857::1::::<><>::
+texture_04.png::CompressedTexture2D::2129159576673201537::1718522795::1718522857::1::::<><>::
+texture_05.png::CompressedTexture2D::9017343476337818690::1718522795::1718522858::1::::<><>::
+texture_06.png::CompressedTexture2D::8228413767840702215::1718522795::1718522858::1::::<><>::
+texture_07.png::CompressedTexture2D::900322122907233029::1718522795::1718522857::1::::<><>::
+texture_08.png::CompressedTexture2D::4739027479841570174::1718522795::1718522857::1::::<><>::
+texture_09.png::CompressedTexture2D::3771541148052467065::1718522795::1718522857::1::::<><>::
+texture_10.png::CompressedTexture2D::5017402608005919765::1718522795::1718522858::1::::<><>::
+texture_11.png::CompressedTexture2D::1353891507144140720::1718522795::1718522858::1::::<><>::
+texture_12.png::CompressedTexture2D::9042040225043261128::1718522795::1718522858::1::::<><>::
+texture_13.png::CompressedTexture2D::2746034453418042728::1718522796::1718522858::1::::<><>::
+::res://Example World/Objects/::1718522796
+::res://Example World/Objects/World/::1724256758
+box_1.tscn::PackedScene::3936402651945174464::1718522796::0::1::::<><>::res://Example World/Scripts/physic_objects/targetable_objects.gd<>uid://dxsynf14s3j6x::::res://Example World/Models/Boxes/cardboard_box1_Box_21-256x256.png
+target.tscn::PackedScene::3434350818672775921::1721330534::0::1::::<><>::res://Example World/Scripts/target.gd
+world.tscn::PackedScene::8089720147576460957::1724256758::0::1::::<><>::uid://bwc28g513sfim::::res://Example World/Objects/World/box_1.tscn<>uid://bo6viygofawpl::::res://Example World/Objects/World/target.tscn<>uid://cq88a0poa5pag::::res://Player_Controller/Spawnable_Objects/Weapons/sniper.tscn<>uid://bqp54syxqnqww::::res://Player_Controller/world_environment.tres<>uid://dl236agqx8rjp::::res://Player_Controller/Spawnable_Objects/Clips/blaster_i_clip.tscn<>uid://cjxvrad2c6vh8::::res://Player_Controller/Spawnable_Objects/Clips/blaster_n_clip.tscn<>uid://oc13h3au02ro::::res://Player_Controller/player_character.tscn<>uid://cgt2lt4ultlaq::::res://Player_Controller/Spawnable_Objects/Clips/blaster_m_clip.tscn<>uid://br6g3dtbytwpu::::res://Player_Controller/Spawnable_Objects/Clips/blaster_L_clip.tscn<>uid://bkppki07fuifu::::res://Example World/Models/Textures/prototype texture/Dark/texture_01.png<>uid://dhpsrp23go1ne::::res://Player_Controller/Spawnable_Objects/Weapon_Case/military_case.tscn<>uid://do476gho25xc4::::res://Ai_Characters/Spawnable_Objects/grunt.tscn<>uid://d4leixwksxv12::::res://Player_Controller/Weapon_Models/Joe's_AR/Joe's_AR.glb
+world_environment.tres::Environment::3542282129581286666::1718522796::0::1::::<><>::
+::res://Example World/Objects/World/WorldMesh/::1718522796
+Mesh_Lib.tscn::PackedScene::5665647082389934187::1718522796::0::1::::<><>::
+::res://Example World/Scripts/::1722258480
+target.gd::GDScript::-1::1722258480::0::1::::<>StaticBody3D<>::
+::res://Example World/Scripts/physic_objects/::1718522796
+targetable_objects.gd::GDScript::-1::1718522796::0::1::::<>RigidBody3D<>::
+::res://Player_Controller/::1724256759
+player_character.tscn::PackedScene::988401621427553860::1724256759::0::1::::<><>::res://Player_Controller/scripts/Player_Character/player_character.gd<>res://Player_Controller/scripts/Player_Character/HUD.gd<>uid://ddel0kaf6ht01::::res://Player_Controller/Spawnable_Objects/Weapon_Icons/ar_icon_v2.png<>uid://bjh5ic6qy4jtl::::res://Player_Controller/HUD ASSETS/crosshair001.png<>uid://uidicgaojgdi::::res://Player_Controller/HUD ASSETS/crosshair046.png<>res://Player_Controller/scripts/Weapon_State_Machine/Weapon_State_Machine.gd<>uid://pep701efp04c::::res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/sniper.tres<>uid://clj2vwyw4fctg::::res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/plasma.tres<>uid://blr1r4yh7k1kt::::res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/ar.tres<>uid://bex2tii00oo27::::res://Player_Controller/Hands/hand_rig_ar_v2_arms_baseColor.png<>uid://basf5h03v1kfp::::res://Player_Controller/Hands/hand_rig_ar_v2_arms_metallicRoughness.png<>res://Player_Controller/scripts/Weapon_State_Machine/grenade_manager.gd<>uid://cajjb2qrv77nn::::res://Player_Controller/Hands/hand_rig_ar_v2_arms_normal.png<>uid://dog4esuisx3dv::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_0.png<>uid://crd7jbrpkuxuv::::res://Player_Controller/Spawnable_Objects/Grenades/grenade.tscn<>uid://b6lajmblwqckh::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_1.png<>uid://bw1efd3mlb44j::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_2.png<>uid://b4xh2a335kfh4::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_3.png<>uid://d3ly8l1ahticu::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_4.png<>uid://r2lqqbbi8x4e::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_5.png<>uid://2coqrsd14rdt::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_6.png<>uid://cwyrr6efd4dxd::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_7.png<>uid://bih0fu3wjhyb2::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_8.png<>uid://n7wfwdhmd5wr::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_10.png<>uid://bm4gnfwtfevhn::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_9.png<>uid://ddrllrs1xetft::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_11.png<>uid://c8lqua1id36tl::::res://Player_Controller/Spawnable_Objects/VFX/Explosion/Explosion.tscn
+weapon_animation.res::AnimationLibrary::1453397647944387721::1718522796::0::1::::<><>::
+world_environment.tres::Environment::3542282129581286666::1724255215::0::1::::<><>::
+::res://Player_Controller/Hands/::1722014302
+hand_rig_ar_v2.glb::PackedScene::6609577234130189145::1722014275::1722014302::1::::<><>::
+hand_rig_ar_v2_arms_baseColor.png::CompressedTexture2D::2716330469192590862::1722014279::1722014281::1::::<><>::
+hand_rig_ar_v2_arms_metallicRoughness.png::CompressedTexture2D::2423937049632006209::1722014277::1722014281::1::::<><>::
+hand_rig_ar_v2_arms_normal.png::CompressedTexture2D::4791970449550628151::1722014276::1722014281::1::::<><>::
+::res://Player_Controller/HUD ASSETS/::1718522857
+crosshair001.png::CompressedTexture2D::3034406870543870941::1718522796::1718522857::1::::<><>::
+crosshair046.png::CompressedTexture2D::1420488446457260718::1718522796::1718522857::1::::<><>::
+::res://Player_Controller/scripts/::1724217087
+::res://Player_Controller/scripts/Global/::1724217477
+GameEvents.gd::GDScript::-1::1724217477::0::1::::<>Node<>::
+::res://Player_Controller/scripts/Player_Character/::1724219584
+HUD.gd::GDScript::-1::1724219584::0::1::::<>CanvasLayer<>::
+player_character.gd::GDScript::-1::1724198595::0::1::::<>CharacterBody3D<>::
+::res://Player_Controller/scripts/Projectiles/::1724255215
+Projectile.gd::GDScript::-1::1724255215::0::1::::Projectile<>Node3D<>::
+shotgun_projectile.gd::GDScript::-1::1718522796::0::1::::<>Projectile<>::
+::res://Player_Controller/scripts/Weapon_State_Machine/::1724255215
+bullet.gd::GDScript::-1::1718522797::0::1::::<>RigidBody3D<>::
+grenade.gd::GDScript::-1::1721334222::0::1::::<>RigidBody3D<>::
+grenade_manager.gd::GDScript::-1::1722101582::0::1::::<>Node<>::
+hit_debug.gd::GDScript::-1::1718522797::0::1::::<>Sprite3D<>::
+weapon_resource.gd::GDScript::-1::1724214333::0::1::::Weapon_Resource<>Resource<>res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource_icon.svg::
+weapon_resource_icon.svg::CompressedTexture2D::3722951221083975908::1718522797::1718522857::1::::<><>::
+Weapon_State_Machine.gd::GDScript::-1::1724255215::0::1::::<>Node3D<>::
+::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/::1724219994
+reload_clip.gd::GDScript::-1::1718522797::0::1::::<>RigidBody3D<>::
+Weapon_Pick_Up.gd::GDScript::-1::1724219994::0::1::::Weapon_Pick_Up<>RigidBody3D<>::
+::res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/::1724255215
+ar.tres::Resource/Weapon_Resource::3195202946452479103::1724255215::0::1::::<><>::uid://dc48o4niy1mok::::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_hitscan_projectile.tscn<>res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd<>uid://ddel0kaf6ht01::::res://Player_Controller/Spawnable_Objects/Weapon_Icons/ar_icon_v2.png
+blasterI.tres::Resource/Resource::1690250007110488151::1722008223::0::1::::<><>::uid://dc48o4niy1mok::::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_hitscan_projectile.tscn<>res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd<>uid://cvbk5bxenpxey::::res://Player_Controller/Spawnable_Objects/Weapons/blaster_I.tscn<>uid://ciu0xkaw0ioef::::res://Player_Controller/Spawnable_Objects/SprayProfiles/spray_profile_1.tscn
+blasterL.tres::Resource/Resource::3966821733617405030::1724121927::0::1::::<><>::uid://bpxa3je174q43::::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_rigid_body_projectile.tscn<>res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd<>uid://catx2kysw47d8::::res://Player_Controller/Spawnable_Objects/Weapons/blaster_L.tscn<>uid://3mb12hvruajh::::res://Player_Controller/Spawnable_Objects/SprayProfiles/spray_profile_2.tscn
+blasterN.tres::Resource/Resource::6616740077111018050::1724121927::0::1::::<><>::uid://dc48o4niy1mok::::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_hitscan_projectile.tscn<>uid://gtthejj2wmyj::::res://Player_Controller/Spawnable_Objects/Weapons/blaster_n.tscn<>res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd<>uid://ceuaamuau8pl8::::res://Player_Controller/Spawnable_Objects/SprayProfiles/spray_profile_3.tscn
+no_weapon.tres::Resource/Resource::-1::1718522797::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd
+plasma.tres::Resource/Weapon_Resource::5565176101295335372::1724255215::0::1::::<><>::uid://bpxa3je174q43::::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_rigid_body_projectile.tscn<>uid://thqr7bj66sgn::::res://Player_Controller/Spawnable_Objects/Weapons/ar.tscn<>res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd<>uid://dpdd60x0raih2::::res://Player_Controller/Spawnable_Objects/Weapon_Icons/plasma_icon_v2.png
+sniper.tres::Resource/Weapon_Resource::1062059419320889736::1724255215::0::1::::<><>::uid://dc48o4niy1mok::::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_hitscan_projectile.tscn<>res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd<>uid://b8f1en7deuqcy::::res://Player_Controller/Spawnable_Objects/Weapon_Icons/sniper_icon.png
+::res://Player_Controller/Spawnable_Objects/::1724256756
+bullet.tscn::PackedScene::258733281609629675::1724256756::0::1::::<><>::
+hit_debug.tscn::PackedScene::7622678305914583034::1724123321::0::1::::<><>::uid://clfvflhvcccy1::::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/debug_sprite.png<>res://Player_Controller/scripts/Weapon_State_Machine/hit_debug.gd
+hit_debug_2.tscn::PackedScene::3073640932202172743::1724123321::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/hit_debug.gd
+::res://Player_Controller/Spawnable_Objects/BulletCase/::1723827027
+bullet_case.glb::PackedScene::4264311699748895358::1722085379::1722085380::1::::<><>::
+bullet_case.tscn::PackedScene::3150995550624117021::1723827027::0::1::::<><>::
+bullet_case_high.glb::PackedScene::8380485251628704193::1722085555::1722085556::1::::<><>::
+::res://Player_Controller/Spawnable_Objects/Clips/::1724123321
+blaster_i_clip.tscn::PackedScene::7988832975893632125::1724123321::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/reload_clip.gd
+blaster_L_clip.tscn::PackedScene::3644041227101055074::1724123321::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/reload_clip.gd
+blaster_m_clip.tscn::PackedScene::5234857652746329028::1724123321::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/reload_clip.gd
+blaster_n_clip.tscn::PackedScene::5453327069681432731::1718522796::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/reload_clip.gd
+::res://Player_Controller/Spawnable_Objects/Grenades/::1724123321
+grenade.tscn::PackedScene::5974203937889336185::1724123321::0::1::::<><>::uid://une3f8tsbvsu::::res://Player_Controller/Weapon_Models/Frag_Grenade/grenade_frag_grenade.png<>res://Player_Controller/scripts/Weapon_State_Machine/grenade.gd<>uid://bbc0070ogu1i::::res://Player_Controller/Weapon_Models/Frag_Grenade/grenade_frag_grenade_illum.png
+::res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/::1724194171
+basic_hitscan_projectile.tscn::PackedScene::7361536898755266598::1724123321::0::1::::<><>::res://Player_Controller/scripts/Projectiles/Projectile.gd
+basic_rigid_body_projectile.tscn::PackedScene::3486784508950910814::1724194171::0::1::::<><>::res://Player_Controller/scripts/Projectiles/Projectile.gd<>uid://dxlkgbr1p580::::res://Player_Controller/Spawnable_Objects/bullet.tscn
+debug_sprite.png::CompressedTexture2D::5556525111519858274::1718522796::1718522857::1::::<><>::
+shotgun_projectile.tscn::PackedScene::3623329414322797466::1724123321::0::1::::<><>::res://Player_Controller/scripts/Projectiles/shotgun_projectile.gd
+::res://Player_Controller/Spawnable_Objects/SprayProfiles/::1724123321
+ak-47-spray-pattern-mens-t-shirt.jpg::CompressedTexture2D::2632094142406980234::1718522796::1718522858::1::::<><>::
+spray_profile.gd::GDScript::-1::1718522796::0::1::::Spray_Profile<>Node<>::
+spray_profile_1.tscn::PackedScene::5377199195917450837::1724123321::0::1::::<><>::res://Player_Controller/Spawnable_Objects/SprayProfiles/spray_profile.gd
+spray_profile_2.tscn::PackedScene::1990168732469650633::1724123321::0::1::::<><>::res://Player_Controller/Spawnable_Objects/SprayProfiles/spray_profile.gd
+spray_profile_3.tscn::PackedScene::5094884958223858715::1724123321::0::1::::<><>::res://Player_Controller/Spawnable_Objects/SprayProfiles/spray_profile.gd
+::res://Player_Controller/Spawnable_Objects/VFX/::1722159770
+::res://Player_Controller/Spawnable_Objects/VFX/BulletImpact/::1724123321
+BulletImpact.gd::GDScript::-1::1722124346::0::1::::BulletImpact<>Node3D<>::
+BulletImpact.tscn::PackedScene::6765869312150315480::1724123321::0::1::::<><>::res://Player_Controller/Spawnable_Objects/VFX/BulletImpact/BulletImpact.gd
+::res://Player_Controller/Spawnable_Objects/VFX/BulletTrail/::1724284519
+BulletTrail.gd::GDScript::-1::1722162957::0::1::::BulletTrail<>MeshInstance3D<>::
+bullet_trail.gdshader::Shader::-1::1724284519::0::1::::<><>::
+Bullet_Trail.tscn::PackedScene::1297052553601461129::1724123321::0::1::::<><>::res://Player_Controller/Spawnable_Objects/VFX/BulletTrail/BulletTrail.gd
+::res://Player_Controller/Spawnable_Objects/VFX/Explosion/::1722120954
+Explosion.gd::GDScript::-1::1722101426::0::1::::<>Node3D<>::
+Explosion.tscn::PackedScene::7112788591031833885::1722120785::0::1::::<><>::res://Player_Controller/Spawnable_Objects/VFX/Explosion/Explosion.gd
+::res://Player_Controller/Spawnable_Objects/Weapons/::1724256756
+ar.tscn::PackedScene::1349042186525274089::1724256756::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd<>uid://blr1r4yh7k1kt::::res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/ar.tres
+blaster_I.tscn::PackedScene::6249532293537335556::1724123320::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd
+blaster_L.tscn::PackedScene::4813509815139620111::1724123320::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd
+blaster_m.tscn::PackedScene::1683270678248953800::1724192840::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd
+blaster_n.tscn::PackedScene::461522587017746729::1724123320::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd
+plasma.tscn::PackedScene::4457775750920562675::1724220003::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd<>uid://clj2vwyw4fctg::::res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/plasma.tres
+sniper.tscn::PackedScene::5965992329133098418::1724256756::0::1::::<><>::res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd<>uid://dog4esuisx3dv::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_0.png<>uid://pep701efp04c::::res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/sniper.tres<>uid://b6lajmblwqckh::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_1.png<>uid://bw1efd3mlb44j::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_2.png<>uid://b4xh2a335kfh4::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_3.png<>uid://d3ly8l1ahticu::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_4.png<>uid://r2lqqbbi8x4e::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_5.png<>uid://2coqrsd14rdt::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_6.png<>uid://cwyrr6efd4dxd::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_7.png<>uid://bih0fu3wjhyb2::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_8.png<>uid://n7wfwdhmd5wr::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_10.png<>uid://bm4gnfwtfevhn::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_9.png<>uid://ddrllrs1xetft::::res://Player_Controller/Weapon_Models/Sniper/sniper_rifle_Image_11.png
+::res://Player_Controller/Spawnable_Objects/Weapon_Case/::1724220005
+military_case.gd::GDScript::-1::1724199999::0::1::::<>Node3D<>::
+military_case.tscn::PackedScene::7682673718063368118::1724220005::0::1::::<><>::res://Player_Controller/Spawnable_Objects/Weapon_Case/military_case.gd<>uid://cq88a0poa5pag::::res://Player_Controller/Spawnable_Objects/Weapons/sniper.tscn
+::res://Player_Controller/Spawnable_Objects/Weapon_Icons/::1724211975
+ar_icon_v2.png::CompressedTexture2D::7378799150280095872::1724211974::1724211975::1::::<><>::
+plasma_icon_v2.png::CompressedTexture2D::8218526699274187417::1724211974::1724211975::1::::<><>::
+sniper_icon.png::CompressedTexture2D::4714560929885765724::1724211974::1724211975::1::::<><>::
+::res://Player_Controller/Weapon_Models/::1724171626
+blasterA.glb::PackedScene::8380450958432519639::1718522796::1718522861::1::::<><>::
+blasterD.glb::PackedScene::7057011685208720596::1718522796::1718522861::1::::<><>::
+blasterL.glb::PackedScene::7658920681249816163::1718522796::1718522861::1::::<><>::
+blasterN.glb::PackedScene::3883894984375497527::1718522796::1718522861::1::::<><>::
+bullet_case.glb::PackedScene::4027689391855131197::1722042532::1722042533::1::::<><>::
+foamBulletA.glb::PackedScene::5330692767018787457::1718522796::1718522861::1::::<><>::
+::res://Player_Controller/Weapon_Models/Ar/::1721302272
+assault_rifle.glb::PackedScene::8813401783231487353::1721301039::1721301040::1::::<><>::uid://q5ok5q0mamaj::::res://Player_Controller/Weapon_Models/Ar/assault_rifle_assault rifle_fp.png<>uid://dwkr2ibsm4yh0::::res://Player_Controller/Weapon_Models/Ar/assault_rifle_display_fp.png<>uid://d07rvxuhlnf1m::::res://Player_Controller/Weapon_Models/Ar/assault_rifle_compass_plate_bitmap_1.png<>uid://cxdkql2u2w3d0::::res://Player_Controller/Weapon_Models/Ar/assault_rifle_numbers_plate_bitmap_1.png<>uid://dfwf6a80o34r3::::res://Player_Controller/Weapon_Models/Ar/assault_rifle_bolt.png
+assault_rifle_assault rifle_fp.png::CompressedTexture2D::1185822328237401369::1721301040::1721301041::1::::<><>::
+assault_rifle_bolt.png::CompressedTexture2D::7555981576567938930::1721301040::1721301041::1::::<><>::
+assault_rifle_compass_plate_bitmap_1.png::CompressedTexture2D::8981114159975465228::1721301040::1721301041::1::::<><>::
+assault_rifle_display_fp.png::CompressedTexture2D::8725141216535722511::1721301040::1721301041::1::::<><>::
+assault_rifle_numbers_plate_bitmap_1.png::CompressedTexture2D::6394014267365526799::1721301040::1721301041::1::::<><>::
+::res://Player_Controller/Weapon_Models/Frag_Grenade/::1721331243
+grenade.glb::PackedScene::5073857482670174362::1721331236::1721331243::1::::<><>::uid://une3f8tsbvsu::::res://Player_Controller/Weapon_Models/Frag_Grenade/grenade_frag_grenade.png<>uid://bbc0070ogu1i::::res://Player_Controller/Weapon_Models/Frag_Grenade/grenade_frag_grenade_illum.png
+grenade_frag_grenade.png::CompressedTexture2D::1430906968246515476::1721331237::1721331243::1::::<><>::
+grenade_frag_grenade_illum.png::CompressedTexture2D::72420663897596540::1721331237::1721331243::1::::<><>::
+::res://Player_Controller/Weapon_Models/Joe's_AR/::1723372350
+Joe's_AR.glb::PackedScene::9217705068701292795::1723372349::1723372350::1::::<><>::
+::res://Player_Controller/Weapon_Models/plasma_rifle/::1724130288
+plasma rifle_v4.glb::PackedScene::6488522326644811546::1724130287::1724130288::1::::<><>::
+::res://Player_Controller/Weapon_Models/Sniper/::1722022981
+sniper_rifle.glb::PackedScene::7515353418382387578::1722022976::1722022980::0::::<><>::
+sniper_rifle_Image_0.png::CompressedTexture2D::8156061041206827075::1722022977::1722022981::1::::<><>::
+sniper_rifle_Image_1.png::CompressedTexture2D::4584999696266733283::1722022977::1722022981::1::::<><>::
+sniper_rifle_Image_2.png::CompressedTexture2D::3984501063660530703::1722022977::1722022981::1::::<><>::
+sniper_rifle_Image_3.png::CompressedTexture2D::4469851117491417167::1722022978::1722022981::1::::<><>::
+sniper_rifle_Image_4.png::CompressedTexture2D::9148774585196001024::1722022978::1722022981::1::::<><>::
+sniper_rifle_Image_5.png::CompressedTexture2D::1249645842804931362::1722022978::1722022981::1::::<><>::
+sniper_rifle_Image_6.png::CompressedTexture2D::1900107065211845285::1722022978::1722022981::1::::<><>::
+sniper_rifle_Image_7.png::CompressedTexture2D::6367605175529164629::1722022979::1722022981::1::::<><>::
+sniper_rifle_Image_8.png::CompressedTexture2D::2963910025597900453::1722022979::1722022981::1::::<><>::
+sniper_rifle_Image_9.png::CompressedTexture2D::3288941576967169951::1722022980::1722022981::1::::<><>::
+sniper_rifle_Image_10.png::CompressedTexture2D::979860918717074285::1722022979::1722022981::1::::<><>::
+sniper_rifle_Image_11.png::CompressedTexture2D::7405611456381469529::1722022979::1722022981::1::::<><>::
+::res://Player_Controller/Weapon_Models/Weapon_Case/::1724171679
+military_case.glb::PackedScene::3668634649389369095::1724171679::1724171679::1::::<><>::

@@ -1,0 +1,16 @@
+res://Player_Controller/player_character.tscn
+res://Player_Controller/scripts/Projectiles/Projectile.gd
+res://Player_Controller/scripts/Weapon_State_Machine/Weapon_State_Machine.gd
+res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/ar.tres
+res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/plasma.tres
+res://Player_Controller/scripts/Weapon_State_Machine/Weapon_Resources/sniper.tres
+res://Player_Controller/world_environment.tres
+res://Player_Controller/Spawnable_Objects/VFX/BulletTrail/bullet_trail.gdshader
+res://Ai_Characters/Spawnable_Objects/grunt.tscn
+res://Player_Controller/Spawnable_Objects/bullet.tscn
+res://Ai_Characters/Projectile/Ray_Projectile.tscn
+res://Player_Controller/Spawnable_Objects/Weapons/sniper.tscn
+res://Player_Controller/Spawnable_Objects/Weapons/ar.tscn
+res://Example World/Objects/World/world.tscn
+res://Player_Controller/scripts/Weapon_State_Machine/PickUp Weapons/Weapon_Pick_Up.gd
+res://Player_Controller/Spawnable_Objects/Weapons/plasma.tscn

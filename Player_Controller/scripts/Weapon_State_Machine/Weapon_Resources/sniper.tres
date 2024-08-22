@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="Weapon_Resource" load_steps=4 format=3 uid="uid://pep701efp04c"]
+
+[ext_resource type="PackedScene" uid="uid://dc48o4niy1mok" path="res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_hitscan_projectile.tscn" id="1_r4ule"]
+[ext_resource type="Script" path="res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd" id="3_kpsoo"]
+[ext_resource type="Texture2D" uid="uid://b8f1en7deuqcy" path="res://Player_Controller/Spawnable_Objects/Weapon_Icons/sniper_icon.png" id="4_ncckp"]
+
+[resource]
+script = ExtResource("3_kpsoo")
+Weapon_Name = "sniper"
+Pick_Up_Anim = "sniper Pick_Up"
+Shoot_Anim = "sniper Shoot"
+Reload_Anim = "sniper Reload"
+Change_Anim = "sniper Drop"
+Drop_Anim = "sniper Drop"
+Out_Of_Ammo_Anim = "sniper OOA"
+Melee_Anim = "sniper Melee"
+Projectile_Type = "Hitscan"
+Current_Ammo = 4
+Reserve_Ammo = 16
+Magazine = 4
+Max_Ammo = 32
+Damage = 50
+Melee_Damage = 0.5
+AutoFire = false
+BulletCase = false
+Fire_Range = 2000
+Weapon_Icon = ExtResource("4_ncckp")
+Can_Be_Dropped = true
+Projectile_To_Load = ExtResource("1_r4ule")
+Incremental_Reload = false

@@ -1,0 +1,101 @@
+[gd_scene load_steps=16 format=3 uid="uid://c3no45g1r2w0g"]
+
+[ext_resource type="Script" path="res://Player_Controller/Spawnable_Objects/VFX/BulletImpact/BulletImpact.gd" id="1_vrph0"]
+
+[sub_resource type="Curve" id="Curve_e4lnu"]
+_data = [Vector2(0.0677966, 1), 0.0, 0.0, 0, 0, Vector2(0.402542, 0.208791), 0.0, 0.0, 0, 0, Vector2(0.966102, 0.032967), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_hrslc"]
+curve = SubResource("Curve_e4lnu")
+
+[sub_resource type="Curve" id="Curve_77fqg"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.656566, 1), 0.0, 0.0, 0, 0, Vector2(0.969697, 0), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_0fqvt"]
+curve = SubResource("Curve_77fqg")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_1815i"]
+particle_flag_align_y = true
+direction = Vector3(1, 1, 0)
+spread = 180.0
+initial_velocity_min = 12.0
+initial_velocity_max = 14.0
+scale_min = 0.5
+scale_max = 1.5
+scale_curve = SubResource("CurveTexture_0fqvt")
+color = Color(1, 0.803922, 0.576471, 1)
+alpha_curve = SubResource("CurveTexture_hrslc")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tix4m"]
+transparency = 1
+vertex_color_use_as_albedo = true
+albedo_color = Color(1, 0.92549, 0.682353, 1)
+emission_enabled = true
+emission = Color(0.941176, 0.423529, 0, 1)
+emission_energy_multiplier = 2.0
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_drrlf"]
+material = SubResource("StandardMaterial3D_tix4m")
+top_radius = 0.02
+bottom_radius = 0.0
+height = 0.8
+
+[sub_resource type="Curve" id="Curve_wdpwf"]
+_data = [Vector2(0.106599, 0.32967), 0.0, 0.0, 0, 0, Vector2(0.609137, 0.769231), 0.0, 0.0, 0, 0, Vector2(0.944162, 0.186813), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_tsqlm"]
+curve = SubResource("Curve_wdpwf")
+
+[sub_resource type="Curve" id="Curve_60dna"]
+_data = [Vector2(0.00507614, 0.241758), 0.0, 0.0, 0, 0, Vector2(0.238579, 1), 0.0, 0.0, 0, 0, Vector2(0.64467, 1), 0.0, 0.0, 0, 0, Vector2(0.959391, 0), 0.0, 0.0, 0, 0]
+point_count = 4
+
+[sub_resource type="CurveTexture" id="CurveTexture_t3up5"]
+curve = SubResource("Curve_60dna")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_ix7wo"]
+direction = Vector3(0, -1, 0)
+initial_velocity_min = 1.0
+initial_velocity_max = 2.0
+gravity = Vector3(0, 5, 0)
+scale_min = 0.5
+scale_max = 1.5
+scale_curve = SubResource("CurveTexture_t3up5")
+color = Color(0.458824, 0.431373, 0.337255, 1)
+alpha_curve = SubResource("CurveTexture_tsqlm")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6bpku"]
+transparency = 1
+vertex_color_use_as_albedo = true
+
+[sub_resource type="SphereMesh" id="SphereMesh_f301t"]
+material = SubResource("StandardMaterial3D_6bpku")
+radial_segments = 8
+rings = 4
+
+[node name="BulletImpact" type="Node3D"]
+script = ExtResource("1_vrph0")
+
+[node name="Debris" type="GPUParticles3D" parent="."]
+emitting = false
+amount = 1
+lifetime = 0.5
+one_shot = true
+explosiveness = 1.0
+fixed_fps = 60
+process_material = SubResource("ParticleProcessMaterial_1815i")
+draw_pass_1 = SubResource("CylinderMesh_drrlf")
+
+[node name="Smoke" type="GPUParticles3D" parent="."]
+visible = false
+emitting = false
+amount = 1
+lifetime = 2.0
+one_shot = true
+explosiveness = 1.0
+fixed_fps = 60
+process_material = SubResource("ParticleProcessMaterial_ix7wo")
+draw_pass_1 = SubResource("SphereMesh_f301t")

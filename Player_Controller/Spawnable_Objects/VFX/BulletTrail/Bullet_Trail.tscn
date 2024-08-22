@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://sqkjbtckgh2h"]
+
+[ext_resource type="Script" path="res://Player_Controller/Spawnable_Objects/VFX/BulletTrail/BulletTrail.gd" id="1_ld2vs"]
+
+[node name="BulletTrail" type="MeshInstance3D"]
+script = ExtResource("1_ld2vs")

@@ -1,0 +1,30 @@
+[gd_resource type="Resource" script_class="Weapon_Resource" load_steps=4 format=3 uid="uid://blr1r4yh7k1kt"]
+
+[ext_resource type="PackedScene" uid="uid://dc48o4niy1mok" path="res://Player_Controller/Spawnable_Objects/Projectiles_To_Load/basic_hitscan_projectile.tscn" id="1_liii2"]
+[ext_resource type="Script" path="res://Player_Controller/scripts/Weapon_State_Machine/weapon_resource.gd" id="1_tsf2n"]
+[ext_resource type="Texture2D" uid="uid://ddel0kaf6ht01" path="res://Player_Controller/Spawnable_Objects/Weapon_Icons/ar_icon_v2.png" id="4_3gq8w"]
+
+[resource]
+script = ExtResource("1_tsf2n")
+Weapon_Name = "ar"
+Pick_Up_Anim = "ar Pick_Up"
+Shoot_Anim = "ar Shoot"
+Reload_Anim = "ar Reload"
+Change_Anim = "ar Drop"
+Drop_Anim = "ar Drop"
+Out_Of_Ammo_Anim = "ar OOA"
+Melee_Anim = "ar Melee"
+Projectile_Type = "Hitscan"
+Current_Ammo = 60
+Reserve_Ammo = 120
+Magazine = 60
+Max_Ammo = 240
+Damage = 5
+Melee_Damage = 5.0
+AutoFire = true
+BulletCase = true
+Fire_Range = 2000
+Weapon_Icon = ExtResource("4_3gq8w")
+Can_Be_Dropped = false
+Projectile_To_Load = ExtResource("1_liii2")
+Incremental_Reload = false

@@ -1,0 +1,4 @@
+extends Node
+
+signal weapon_pickup_entered_range(weapon_resource: Weapon_Resource)
+signal weapon_pickup_exited_range
